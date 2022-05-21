@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=amitkumarj441&color=blue)
 
-- Postdoc @ University College London (UCL) working on multimodal DL.
+- Postdoc @ University College London (UCL) developing deep vision models for prostate cancer.
+- Actively exploring DeFi/Web3 space where AI can be leveraged to solve problems in financial and healthcare sector.
 - PhD researcher in Interactive Information Retrieval, mainly interested in demystifying search for people.
 - Ex-research engineer @ University of Leeds on various financial AI use-cases (lending, portfolio optimisation, credit risk etc.)
 - I am on break from Kaggle, and my profile can be located at [Kaggle Competitions Expert](https://www.kaggle.com/amitkumarjaiswal)
