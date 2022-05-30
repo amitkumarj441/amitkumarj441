@@ -10,4 +10,5 @@
 <p align = "left" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumarj441&" style="float: left; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" />
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=amitkumarj441&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
